@@ -1,5 +1,5 @@
 const hakkinda=function(req, res, next) {
-  res.render('hakkinda', { title: 'Hakkında', 'copyright': '© Utku Çelebi 2020' });
+  res.render('hakkinda', { title: 'Hakkında', 'footer': '© Utku Çelebi 2021' });
 }
 
 
